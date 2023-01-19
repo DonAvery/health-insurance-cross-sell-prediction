@@ -30,7 +30,7 @@ Clone this repository `git clone https://github.com/DonAvery/health-insurance-cr
 
 `cd health-insurance-cross-sell-prediction/files`
 
-Run `conda env create -f environment.yml'
+Run `conda env create -f environment.yml`
 
 `conda activate eval`
 
