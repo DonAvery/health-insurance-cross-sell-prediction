@@ -6,9 +6,9 @@ I run my machine learning projects on a standalone Ubuntu PC using conda. These 
 
 ## Data and Intention
 
-The dataset was pulled from Kaggle here: https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction?select=train.csv
+The dataset was pulled from Kaggle here: https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction
 
-The target feature in this dataset is the `response` column. This column denotes if a customer purchased auto insurance or not. We want predict which customers might respond to a marketing campaign in the future.
+The target feature in this dataset is the `response` column. This column denotes if a customer is interested in purchasing auto insurance or not. We want predict which customers might respond to a marketing campaign in the future.
 
 Several models were used in this Jupyter Notebook:
 
